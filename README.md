@@ -1,4 +1,4 @@
 # SSW345-HW5-Reflection
 
 some stuff here....
-I will update this when we finish out bot project
+I will update this when we finish out bor project
